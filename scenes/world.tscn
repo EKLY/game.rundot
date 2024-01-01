@@ -1,9 +1,9 @@
 [gd_scene load_steps=5 format=3 uid="uid://5v1c3tusxafc"]
 
 [ext_resource type="TileSet" uid="uid://d3wtdqujgu6rs" path="res://resources/tileset.tres" id="1_cwvpl"]
-[ext_resource type="PackedScene" uid="uid://citdi55luuku5" path="res://player.tscn" id="2_8kvud"]
-[ext_resource type="PackedScene" uid="uid://js12ufb4ewul" path="res://game_camera.tscn" id="3_1fm6i"]
-[ext_resource type="PackedScene" uid="uid://c3hhd1kwh0k5o" path="res://enemy.tscn" id="4_4i8d4"]
+[ext_resource type="PackedScene" uid="uid://citdi55luuku5" path="res://scenes/player.tscn" id="2_8kvud"]
+[ext_resource type="PackedScene" uid="uid://js12ufb4ewul" path="res://scenes/game_camera.tscn" id="3_1fm6i"]
+[ext_resource type="PackedScene" uid="uid://c3hhd1kwh0k5o" path="res://scenes/enemy.tscn" id="4_4i8d4"]
 
 [node name="World" type="Node2D"]
 
